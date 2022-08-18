@@ -49,6 +49,8 @@ vmess://YXV0bzozOGQ1ZDU4YS0zMjRhLTQzNDEtODBhZS0zMDllMTBkMzVlM2NAaGsyMC5zd3R5LmJ1
 
 vmess://YXV0bzozOGQ1ZDU4YS0zMjRhLTQzNDEtODBhZS0zMDllMTBkMzVlM2NAaGsyMS5zd3R5LmJ1eno6MTM3MzI?remarks=V1%20KR%2001&obfs=websocket&tfo=1&alterId=0
 
+vmess://YXV0bzozOGQ1ZDU4YS0zMjRhLTQzNDEtODBhZS0zMDllMTBkMzVlM2NAaGsyMi5zd3R5LmJ1eno6MTY5OTQ?remarks=V1%20KR%2002&obfs=websocket&tfo=1&alterId=0
+
 vmess://YXV0bzozOGQ1ZDU4YS0zMjRhLTQzNDEtODBhZS0zMDllMTBkMzVlM2NAaGsyMy5zd3R5LmJ1eno6MTMwMzk?remarks=V1%20KR%2003&obfs=websocket&tfo=1&alterId=0
 
 vmess://YXV0bzozOGQ1ZDU4YS0zMjRhLTQzNDEtODBhZS0zMDllMTBkMzVlM2NAaGsyNC5zd3R5LmJ1eno6MTA5NzY?remarks=V1%20KR%2004&obfs=websocket&tfo=1&alterId=0
